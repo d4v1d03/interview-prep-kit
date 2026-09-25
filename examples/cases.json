@@ -1,0 +1,32 @@
+[
+  {
+    "id": "acme-senior-backend",
+    "company_url": "http://localhost:8099/acme/",
+    "days": 5,
+    "jd": "Senior Backend Engineer\nAcme Payments \u00b7 Remote (Europe)\n\nAbout the role\nYou'll join the Ledger team and own services that move money for 1,200 platforms.\n\nWhat you'll do\n- Design and build idempotent, well-tested services in TypeScript on Node.js\n- Own the performance and correctness of our Postgres-backed ledger\n- Review code and mentor engineers earlier in their careers\n\nRequirements\n- 5+ years of professional backend development experience\n- Strong TypeScript and Node.js skills\n- Solid understanding of relational databases, ideally PostgreSQL (indexing, transactions, query plans)\n- Experience designing and operating distributed systems at scale\n- Clear written communication \u2014 we are remote-first and write things down\n\nNice to have\n- Experience with payments, billing or accounting systems\n- Go\n- Experience with event sourcing\n\nWe offer a competitive salary, equity and 30 days of holiday."
+  },
+  {
+    "id": "globex-thin-stub",
+    "company_url": "http://localhost:8099/globex/",
+    "days": 3,
+    "jd": "Backend developer wanted.\nPython, some SQL."
+  },
+  {
+    "id": "initech-fullstack",
+    "company_url": "http://localhost:8099/initech/",
+    "days": 1,
+    "jd": "Full-Stack Engineer (Mid-level) \u2014 Initech, London (hybrid)\n\nInitech builds rostering software used by 80 hospitals.\n\nYou will:\n- Build features across our React front end and Django back end\n- Work closely with nurses and ward managers to understand scheduling problems\n\nYou should have:\n- 3+ years building web applications with React\n- Experience with Python and Django\n- Comfort talking directly with non-technical users\n\nBonus: experience in healthcare software."
+  },
+  {
+    "id": "unreachable-site",
+    "company_url": "http://localhost:8098/nobody-home/",
+    "days": 60,
+    "jd": "Data Engineer at Nobody Home Ltd\n\nRequirements:\n- 2+ years with SQL and Python\n- Experience building ETL pipelines with Airflow\n- Good communication skills"
+  },
+  {
+    "id": "posthog-product-engineer",
+    "company_url": "https://posthog.com",
+    "days": 7,
+    "jd": "Product Engineer \u2014 PostHog (Remote)\n\nWe're looking for product engineers who want to own features end to end.\n\nRequirements:\n- Strong experience with TypeScript and React\n- Experience with Python (we use Django)\n- You have shipped product features that customers use, and talked to those customers\n- Comfortable working autonomously in a fully remote, async team\n\nNice to have:\n- Experience with ClickHouse or other analytics databases\n- You have built developer tools"
+  }
+]
