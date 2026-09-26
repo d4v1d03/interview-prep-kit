@@ -5,7 +5,7 @@ crawls the company site for what they do and how they hire, searches public disc
 builds a structured kit — company brief, role breakdown, categorised question bank, flashcards and a day-by-day
 schedule — that you can edit, regenerate section by section, and practise against.
 
-- **Live app:** _add the Vercel URL here_
+- **Live app:** https://interview-prep-kit-tau.vercel.app/
 - **Batch entry point:** `npm run evaluate -- --input <cases.json> --output <kits.json>` (see [Batch entry point](#batch-entry-point))
 
 ---
